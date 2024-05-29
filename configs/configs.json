@@ -1,0 +1,23 @@
+{
+    "BaseUrl1":"https://jsonplaceholder.typicode.com/",
+    
+    "postData":{
+
+
+        "userId": "11",
+        "id": 120,
+        "title": "Testing Post Call",
+        "body": "The new user is created"
+    },
+
+    "putData":{
+        "userId": "11",
+        "id": 120,
+        "title": "Testing Put Call",
+        "body": "The existing user is updated"
+    }
+
+
+}
+   
+  
